@@ -194,7 +194,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2504/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a267ba09b3a43969364ee77f76dd622&key=5b00d4341e90b3022b5e57139ae8ab16
-#EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
+#EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket Plus
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

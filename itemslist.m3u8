@@ -28,7 +28,7 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="News" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yWBWqyhQ.png", Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/c6049fd0-9e6b-4461-adc9-c6f6858381ed/0.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="News" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T4jA4k1h.png", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8

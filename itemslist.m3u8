@@ -81,14 +81,12 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/cc9831a59b3e40cebc5f5d0f3f382c97/m
 #EXTINF:-1 group-title="India" tvg-logo="https://img.olympics.com/images/image/private/t_original_760/f_auto/primary/aran8dhqsfkoxqlam3o9", JioCinema OLY Feed 1
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/index.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=ism
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae26845bd33038a9c0774a0981007294&key=63ac662dde310cfb4cc6f9b43b34196d
 #EXTINF:-1 tvg-id="1" group-title="Sky" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png", TNT Sports 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=ism
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ktG5ipHz85KF5LYxVgiz7g", "kid":"AANKtOwvvwGEisUVejFNQw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="1" group-title="Sky" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png", TNT Sports 2
 http://linear120-ie-hss1-prd-ak.cdn.skycdp.com/016a/Content/SS_002_hd/Live/channel(gcptnt2sport50).isml/Manifest_hd
@@ -105,7 +103,7 @@ https://whythishome2.000webhostapp.com/mpd.php/manifest.mpd?ch=https://linear037
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pdz6lic3nGkoVnCStuXOQA", "kid":"AANNC0xHohnpPYgLRhDRlw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="1" group-title="Sky" tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1301_darknow/164/50", Sky Sports Main Event
+#EXTINF:-1 tvg-id="1" group-title="Sky" tvg-logo="https://images.metadaom/pd-logo/skychb_1301_darknow/164/50", Sky Sports Main Event
 https://whythishome2.000webhostapp.com/mpd.php/manifest.mpd?ch=https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

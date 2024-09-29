@@ -43,7 +43,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="", Match - English
-https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="", Match - Hindi
 https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8

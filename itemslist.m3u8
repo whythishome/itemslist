@@ -193,6 +193,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 #EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
 https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8eb0f152c6e429ca7a53f399aadf257&key=c593c2eeea62742285b99e4d87b1c84a
+#EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
+https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd|Authorization="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSmxNamsxWVRrdE1XWmlOQzAwTXpZMkxXRXlZbVl0WkRBek4yUXlNV00zWldSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI2MzE5MywiaWF0IjoxNzI3NjU5MTkzfQ.4YEJAd2oHYQERg5XXpQ0ba3UuHZfxxbcbVOHngxBaGk"
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a267ba09b3a43969364ee77f76dd622&key=5b00d4341e90b3022b5e57139ae8ab16
 #EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket Plus

@@ -42,6 +42,14 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="News" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VxKW2nPp.png", News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e90836d23b4ec1b5618b2e4f3a470d38&key=08f968dd99717b22564fe1089258eb40
+#EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_ICC_Women%27s_T20_World_Cup.jpg", World Cup 1
+https://aba5sdmaaaaaaaamo56zosqr4m7j7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0y0tptbbjk/out/v1/8b1b95c2e6dc496abe14a3ae5c675917/cenc.mpd
+
+#EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_ICC_Women%27s_T20_World_Cup.jpg", World Cup 2
+https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://www.sonyliv.com/mweb/3.7.36/publicAssets/SonyLIV_Logo_2X.png", SonyLIV 1
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 

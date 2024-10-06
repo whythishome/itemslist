@@ -181,7 +181,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd|Authorization="Bearer ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="123" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 HD
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpdd|Authorization="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }

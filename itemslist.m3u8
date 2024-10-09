@@ -57,7 +57,7 @@ https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jiocinema.png", JioCinema 1
-https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_091024/index.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png", FanCode 1
 https://dai.fancode.com/primary/95154_english_hls_2714adfreeta-di/1080p50.m3u8
@@ -83,14 +83,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png", Sony PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 group-title="India" tvg-logo="https://img.olympics.com/images/image/private/t_original_760/f_auto/primary/aran8dhqsfkoxqlam3o9", JioCinema OLY Hindi Feed
-https://prod-ent-live-gm.jiocinema.com/out/v1/1bcf841b61684be0b93bb7b230c2690c/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://img.olympics.com/images/image/private/t_original_760/f_auto/primary/aran8dhqsfkoxqlam3o9", JioCinema OLY Hindi Feed 2
-
-https://prod-ent-live-gm.jiocinema.com/out/v1/cc9831a59b3e40cebc5f5d0f3f382c97/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://img.olympics.com/images/image/private/t_original_760/f_auto/primary/aran8dhqsfkoxqlam3o9", JioCinema OLY Feed 1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae26845bd33038a9c0774a0981007294&key=63ac662dde310cfb4cc6f9b43b34196d

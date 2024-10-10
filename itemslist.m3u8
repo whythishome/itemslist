@@ -60,7 +60,7 @@ https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_091024/index.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png", FanCode 1
-https://dai.fancode.com/primary/95154_english_hls_2714adfreeta-di/1080p50.m3u8
+https://dai.fancode.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://www.sports18.com/wp-content/themes/sports18/assets/images/sports18hd1FS.png", Sports18 1 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8

@@ -60,7 +60,7 @@ https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
 https://ak-mediavod.jiocinema.com/mphml/indvsban/m3121024/hindi/ios/master.m3u8?hdnts=st=1728831733~exp=1728832333~acl=/mphml/indvsban/m3121024/hindi/ios/*~id=1db93fee959149ae940e553441319b1a~data=rqId=efa83514-8c8d-4328-ba82-6e358e53e3f8.1~hmac=37ff8e939d7d86ea54d44ec503f736b9a632525eeeb60462d9057e764fa10d2b
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png", FanCode 1
-https://dai.fancode.com/primary/110481_english_hls_6419ta-di/index.m3u8
+https://dai.fancode.com/linear/hls/event/7eK1ZPNxStyJciaYlZftSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ts840" group-title="India" tvg-logo="https://www.sports18.com/wp-content/themes/sports18/assets/images/sports18hd1FS.png", Sports18 1 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8

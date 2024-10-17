@@ -162,7 +162,7 @@ https://whythishome2.000webhostapp.com/mpd.php/manifest.mpd?ch=http://linear033-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Astro GO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Premier League
+#EXTINF:-1 group-title="Astro GO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", Astro Premier League
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd|Authorization="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
